@@ -1,0 +1,8 @@
+google.com
+yandex.ru
+wikipedia.org
+un.org
+1.1.1.1
+8.8.4.4
+8.8.8.8
+66.249.66.200 - 66.249.66.255
