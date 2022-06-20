@@ -16,6 +16,7 @@ inf = [
     'Android/data/org.telegram.messenger',
     'Android/data/com.evildayz.code.telegraher',
     'Android/data/com.ghisler.android.TotalCommander',
+    'Android/data/com.nss.mychat',
     'Pictures/Telegram',
     'Pictures/.thumbnails',
     'Movies/.thumbnails',
